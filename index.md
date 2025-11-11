@@ -1,7 +1,7 @@
 yuz235@ucsd.edu. \
 Section B20 Mentor: Kyle Shannon 
 
-\ **1. What is the most interesting topic covered in your domain this quarter?** \
+**1. What is the most interesting topic covered in your domain this quarter?** \
 How to manage a clean and organized github. \
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.** \
 Sepsis Risk Prediction \
