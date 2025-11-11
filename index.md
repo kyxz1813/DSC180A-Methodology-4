@@ -1,5 +1,5 @@
 yuz235@ucsd.edu. \
-Section B20 Mentor: Kyle Shannon 
+Section B20 | Mentor: Kyle Shannon 
 
 **1. What is the most interesting topic covered in your domain this quarter?** \
 How to manage a clean and organized github. \
